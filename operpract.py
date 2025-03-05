@@ -70,30 +70,30 @@
 # print(x1<=y1)
 # print(x1>=y1)
 
-# Logical Operators(and,or,not)
-x=10
-print(x>6 and x>45)
-print(x<6 and x<45)
-print('\n')
-#(or)
-print(x>6 or x<45)
-print(x<6 or x>45)
-#not
-print(not(x>6 and x<45))
+# # Logical Operators(and,or,not)
+# x=10
+# print(x>6 and x>45)
+# print(x<6 and x<45)
+# print('\n')
+# #(or)
+# print(x>6 or x<45)
+# print(x<6 or x>45)
+# #not
+# print(not(x>6 and x<45))
 
 #Bitwise Operator(and,or,xor,NOT,Zero fill left shift,signed right shift)
-# a=-5
-# b=5
-# print(a & b)
-# print(a | b)
-# print(a ^ b) 
-# print(~a)
-# a=3
-# b=2
-# print(3<<2)
-# a=8
-# b=2
-# print(8>>2)
+a=-5
+b=5
+print(a & b)
+print(a | b)
+print(a ^ b) 
+print(~a)
+a=3
+b=2
+print(3<<2)
+a=8
+b=2
+print(8>>2)
 
 # #Identity Operator(is,is not)
 # x=["siva","sri","mahi","abi"]
