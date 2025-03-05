@@ -10,72 +10,72 @@
 # print("The floor division of two numbers:",x//y)
 
 
-# Assignment Operators:
-x=7
-print(x)
-x+=3
-print(x)
-x=7
-x-=3
-print(x)
-x=7
-x*=3
-print(x)
-x=7
-x/=3
-print(x)
-x=7
-x%=3
-print(x)
-x=7
-x//=3
-print(x)
-x=7
-x**=3
-print(x)
-x=7
-x&=3
-print(x)
-x=7
-x|=3
-print(x)
-x=7
-x^=3
-print(x)
-x=7
-x>>=3
-print(x)
-x=7
-x<<=3
-print(x)
-x=7
-print(x)
+# # Assignment Operators:
+# x=7
+# print(x)
+# x+=3
+# print(x)
+# x=7
+# x-=3
+# print(x)
+# x=7
+# x*=3
+# print(x)
+# x=7
+# x/=3
+# print(x)
+# x=7
+# x%=3
+# print(x)
+# x=7
+# x//=3
+# print(x)
+# x=7
+# x**=3
+# print(x)
+# x=7
+# x&=3
+# print(x)
+# x=7
+# x|=3
+# print(x)
+# x=7
+# x^=3
+# print(x)
+# x=7
+# x>>=3
+# print(x)
+# x=7
+# x<<=3
+# print(x)
+# x=7
+# print(x)
 
 #Comparision operator
-# x=10
-# y=15
-# print(x==y)
-# print(x!=y)
-# print(x<y)
-# print(x>y)
-# print(x<=y)
-# print(x>=y)
-# print('\n')
-# x1="siva"
-# y1="srisiva"
-# print(x1==y1)
-# print(x1!=y1)
-# print(x1<y1)
-# print(x1>y1)
-# print(x1<=y1)
-# print(x1>=y1)
+x=10
+y=15
+print(x==y)
+print(x!=y)
+print(x<y)
+print(x>y)
+print(x<=y)
+print(x>=y)
+print('\n')
+x1="siva"
+y1="srisiva"
+print(x1==y1)
+print(x1!=y1)
+print(x1<y1)
+print(x1>y1)
+print(x1<=y1)
+print(x1>=y1)
 
-#Logical Operators(and,or,not)
+# Logical Operators(and,or,not)
 # x=10
 # print(x>6 and x>45)
 # print(x<6 and x<45)
 # print('\n')
-# # #(or)
+# #(or)
 # print(x>6 or x<45)
 # print(x<6 or x>45)
 # #not
