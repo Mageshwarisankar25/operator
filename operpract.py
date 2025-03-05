@@ -51,35 +51,35 @@
 # x=7
 # print(x)
 
-#Comparision operator
-x=10
-y=15
-print(x==y)
-print(x!=y)
-print(x<y)
-print(x>y)
-print(x<=y)
-print(x>=y)
-print('\n')
-x1="siva"
-y1="srisiva"
-print(x1==y1)
-print(x1!=y1)
-print(x1<y1)
-print(x1>y1)
-print(x1<=y1)
-print(x1>=y1)
+# #Comparision operator
+# x=10
+# y=15
+# print(x==y)
+# print(x!=y)
+# print(x<y)
+# print(x>y)
+# print(x<=y)
+# print(x>=y)
+# print('\n')
+# x1="siva"
+# y1="srisiva"
+# print(x1==y1)
+# print(x1!=y1)
+# print(x1<y1)
+# print(x1>y1)
+# print(x1<=y1)
+# print(x1>=y1)
 
 # Logical Operators(and,or,not)
-# x=10
-# print(x>6 and x>45)
-# print(x<6 and x<45)
-# print('\n')
-# #(or)
-# print(x>6 or x<45)
-# print(x<6 or x>45)
-# #not
-# print(not(x>6 and x<45))
+x=10
+print(x>6 and x>45)
+print(x<6 and x<45)
+print('\n')
+#(or)
+print(x>6 or x<45)
+print(x<6 or x>45)
+#not
+print(not(x>6 and x<45))
 
 #Bitwise Operator(and,or,xor,NOT,Zero fill left shift,signed right shift)
 # a=-5
